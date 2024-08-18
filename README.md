@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">Aspiring MCA Professional</h3>
 
-- 🌱 I’m currently learning **Python, Angular**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **nintuvarughese02@gmail.com**
 
